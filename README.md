@@ -1,6 +1,21 @@
 # portfolio
-Max Shemetov Portfolio
 
-https://maxeema.github.io/portfolio/
+<table>
+ <tr>
+  <td>
+   <a href="https://maxeema.github.io/portfolio"><img src="/assets/portfolio.png" style="height:64px; width:64px;"/></a>
+  </td>
+  <td>
+   <a href="https://maxeema.github.io/portfolio/">My projects portfolio (tap to see)</a>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <a href="https://maxeema.github.io/portfolio/Intro_Max-Shemetov.mp4"><img src="/assets/video.png" style="height:64px; width:64px;"/></a>
+  </td>
+  <td>
+    <a href="https://maxeema.github.io/portfolio/Intro_Max-Shemetov.mp4">My video intro (tap to watch)</a>
+  </td>
+ </tr>
+</table>
 
-Full url: https://docs.google.com/presentation/d/e/2PACX-1vSYHYbXvlgqx_e1ZFzo1vMnSuJHMH5Y_1eDadEdeuoMIOLAoS_MPEv5W0UXh_HZZi-wadKfuADT-lPw/pub?start=true&loop=false&delayms=3000&slide=id.gc6f80d1ff_0_27
